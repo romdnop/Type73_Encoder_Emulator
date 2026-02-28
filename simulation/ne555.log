@@ -1,0 +1,23 @@
+Circuit: * Z:\home\user\Documents\DahlRail\Design\Type73_Encoder_Emulator\simulation\ne555.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by S:U1:1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Feb 28 11:18:10 2026
+Total elapsed time: 0.129 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 69354
+traniter = 69346
+tranpoints = 14797
+accept = 11478
+rejected = 3319
+matrix size = 15
+fillins = 0
+solver = Normal
+Matrix Compiler1: 398 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 821 bytes object code size  0.1/0.1/[0.1]
+
+
