@@ -178,7 +178,7 @@
         "509515f5-4ac2-4158-bd34-30aea6967d99"
       ],
       "settings": {
-        "output_path": "."
+        "output_path": "${KIPRJMOD}"
       },
       "type": "folder"
     },
@@ -190,7 +190,7 @@
         "5d7c683f-6b29-4bb4-9974-c8d43c459b89"
       ],
       "settings": {
-        "output_path": "."
+        "output_path": "${KIPRJMOD}"
       },
       "type": "folder"
     },
@@ -203,7 +203,7 @@
       ],
       "settings": {
         "format": "zip",
-        "output_path": "production_output\\${PROJECTNAME}_${CURRENT_DATE}.zip"
+        "output_path": "${KIPRJMOD}/production_output/${PROJECTNAME}_${CURRENT_DATE}.zip"
       },
       "type": "archive"
     }
